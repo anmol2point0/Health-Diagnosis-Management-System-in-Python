@@ -1,4 +1,4 @@
-# Health-Diagnosis-Management-System-in-PythonThe Health Diagnosis Management System in Python is a software application designed to assist healthcare professionals in managing patient data and diagnoses efficiently. This system allows healthcare providers to input and store patient information securely, including personal details, medical history, symptoms, and test results.
+The Health Diagnosis Management System in Python is a software application designed to assist healthcare professionals in managing patient data and diagnoses efficiently. This system allows healthcare providers to input and store patient information securely, including personal details, medical history, symptoms, and test results.
 
 Through an intuitive user interface, healthcare professionals can easily navigate and update patient records as needed. The system provides functionalities for recording diagnoses, treatment plans, prescriptions, and follow-up appointments, ensuring comprehensive healthcare management.
 
